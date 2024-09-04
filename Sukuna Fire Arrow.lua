@@ -1,6 +1,14 @@
 -- Link to the demo video showing the effect
 -- https://zpsyc.pythonanywhere.com/assets/roblox/Sukuna%20Fire%20Arrow.mp4
 
+--[[
+How To Use:
+
+1. Select "Fire Arrow" from tools
+2. Point your cursor to where the npcs/enemies are
+3. Click.
+
+]]
 -- Function to handle the explosion effect of the fire arrow
 function explodeArrow(plr, ballExplosion, fireArrowExplosionBig, enemies)
     local done = false
