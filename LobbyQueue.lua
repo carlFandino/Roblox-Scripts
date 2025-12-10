@@ -34,16 +34,16 @@ local limitsAliases = {
 
 local placeIdVersus = {
 	-- FOR OFFICIAL SERVER
-	["78180402018313"] = 73158185662182,
+	["0"] = 0,
 	-- FOR TEST SERVER
-	["128490284676659"] = 101619218514266
+	["0"] = 0
 }
 
 local placeIdZombie = {
 	-- FOR OFFICIAL SERVER
-	["78180402018313"] = 91006057706404,
+	["0"] = 0,
 	-- FOR TEST SERVER
-	["128490284676659"] = 138967654752485
+	["0"] = 0
 }
 
 local Lobby = {}
