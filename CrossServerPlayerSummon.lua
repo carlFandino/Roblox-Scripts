@@ -1,6 +1,5 @@
 -- MAIN SCRIPT -- 
 local RS = game:GetService("ReplicatedStorage")
-local CheckEvent = RS:WaitForChild("Events"):WaitForChild("CheckSummon")
 
 local Players = game:GetService("Players")
 local MessagingService = game:GetService("MessagingService")
